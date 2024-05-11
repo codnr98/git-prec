@@ -2,4 +2,4 @@ const hi = () => {
   console.log("Hello, World!");
 };
 
-hi();
+hi("Hello, World!");
